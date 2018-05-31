@@ -1,0 +1,150 @@
+golden corral	1
+in n out	1
+finger food	1
+goat cheese	1
+coca cola	1
+rock candy	1
+chick fil a	1
+hors d'oeuvres	1
+coffee bean	1
+onion rings	1
+cuban sandwich	1
+molecular gastronomy	1
+sweet potato	1
+coq au vin	1
+pine nuts	1
+prickly pear	1
+hot dog	1
+slow food	1
+pizza hut	1
+ice cream sandwich	1
+stir fry	1
+prix fixe	1
+pale ale	1
+sous vide	1
+fast food	1
+foie gras	1
+panna cotta	1
+baked potato	1
+cheddar cheese	1
+whipped cream	1
+tex mex	1
+chocolate cake	1
+soft drinks	1
+gluten free	1
+chocolate syrup	1
+health food	1
+french toast	1
+potato salad	1
+milk chocolate	1
+soda fountain	1
+hash browns	1
+monte cristo	1
+fast casual	1
+cotton candy	1
+hot chocolate	1
+american cheese	1
+freshly squeezed	1
+king crab	1
+fried egg	1
+cheesecake factory	1
+kool aid	1
+wild rice	1
+deep fried	1
+sea bass	1
+frog legs	1
+tap water	1
+fried chicken	1
+bloody mary	1
+demi glace	1
+power lunch	1
+sweet pea	1
+rye bread	1
+kobe beef	1
+buffalo wings	1
+irish bar	1
+red bull	1
+bone marrow	1
+corn dog	1
+chicken fried steak	1
+mahi mahi	1
+bread pudding	1
+red velvet cake	1
+cottage cheese	1
+amuse bouche	1
+comfort food	1
+beer bar	1
+home fries	1
+dive bar	1
+ice cream	1
+potato chip	1
+salisbury steak	1
+green beans	1
+blue cheese	1
+tandoori chicken	1
+pound cake	1
+california pizza kitchen	1
+frozen food	1
+hard boiled egg	1
+english muffin	1
+junk food	1
+cream pie	1
+white bread	1
+stir fried	1
+sea salt	1
+dried fruit	1
+fried fish	1
+carne asada	1
+jasmine rice	1
+bok choy	1
+veggie burger	1
+bow tie	1
+key lime pie	1
+stella artois	1
+pork loin	1
+ginger ale	1
+fast food restaurant	1
+corned beef	1
+po boy	1
+free range	1
+smoked salmon	1
+brown rice	1
+pinot noir	1
+mai tai	1
+pork belly	1
+deep dish pizzas	1
+sage fried chicken	1
+bone	1
+biloxi buttermilk	1
+cesar salad	1
+biscuit	1
+cocktails	1
+irish red	1
+lobster mac n	1
+four peaks grill and	1
+house made ketchup	1
+ham	1
+prosciutto 	1
+good beers	1
+big beer	1
+mushrooms	1
+a thin crust	1
+saute	1
+short rib	1
+soft pretzels and provolone	1
+smoothies	1
+sourdough	1
+toasted pine nuts	1
+thick cut bacon	1
+local coffee	1
+chicken	1
+crispy shrimp	1
+deep fried	1
+soup	1
+lobster	1
+corned beef	1
+wings	1
+sangria	1
+sun dried tomatoes	1
+cocktail	1
+foie gras brulee	1
